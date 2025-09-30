@@ -72,8 +72,7 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/airbnb-impact-of-regulation.git
-cd airbnb-impact-of-regulation
+git clone (https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/tree/main)
 ```
 ### 2. Install Dependencies
 ```bash 
