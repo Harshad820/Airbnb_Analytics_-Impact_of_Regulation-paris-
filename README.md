@@ -86,7 +86,7 @@ jupyter notebook
 - Inside Airbnb for providing the dataset.
 - Paris regulatory context from local housing policies.
 
-##🚀 Future Work
+## 🚀 Future Work
 - Extend the analysis to other European cities for comparison.
 - Add predictive modeling to forecast Airbnb prices.
 - Build an interactive dashboard with Plotly or Power BI.
