@@ -3,6 +3,8 @@
 This project analyzes the **impact of local regulations on Airbnb listings** using data-driven techniques.  
 It explores how regulations influence supply, pricing, and host behavior in different cities.  
 
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+
 The analysis is presented in a Jupyter Notebook:  
 📂 `airbnb-impact-of-regulation.ipynb`
 
@@ -57,13 +59,13 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
   - `scikit-learn` – analytics and modeling  
 
 ---
-##📂 Project Structure
-.
+## 📂 Project Structure
+```
 ├── airbnb-impact-of-regulation.ipynb   # Main analysis notebook
 ├── data/                               # (Optional) Place datasets here
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Documentation
-
+```
 
 ---
 ## ⚙️ How to Run
@@ -81,7 +83,22 @@ pip install -r requirements.txt
 ```bash 
 jupyter notebook
 ```
+---
 
+## 📊 Results
+
+Here are some key visualizations from the analysis:
+
+### Growth of Airbnb Listings in Paris
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+### Average Price by Locality
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+### Average Price as per Accomodates allowed
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+### Impact of 2017 Regulation on Host Entries
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+
+---
 ## 🙌 Acknowledgments
 - Inside Airbnb for providing the dataset.
 - Paris regulatory context from local housing policies.
