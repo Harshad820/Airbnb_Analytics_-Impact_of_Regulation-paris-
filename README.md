@@ -3,7 +3,7 @@
 This project analyzes the **impact of local regulations on Airbnb listings** using data-driven techniques.  
 It explores how regulations influence supply, pricing, and host behavior in different cities.  
 
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg))
 
 The analysis is presented in a Jupyter Notebook:  
 📂 `airbnb-impact-of-regulation.ipynb`
@@ -90,13 +90,13 @@ jupyter notebook
 Here are some key visualizations from the analysis:
 
 ### Growth of Airbnb Listings in Paris
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/blob/main/image/1.png))
 ### Average Price by Locality
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/blob/main/image/2.png))
 ### Average Price as per Accomodates allowed
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/blob/main/image/3.png))
 ### Impact of 2017 Regulation on Host Entries
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/blob/main/image/4.png))
 
 ---
 ## 🙌 Acknowledgments
