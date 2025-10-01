@@ -61,12 +61,16 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
 ## 📂 Project Structure
 ```
 
-└── README.md                           # Documentation
-├── airbnb-impact-of-regulation.ipynb   # Main analysis notebook
-└── Dataset                             # Datasets here
+├── README.md                           # Documentation
+└── airbnb-impact-of-regulation.ipynb   # Main analysis notebook
 
 ```
 
+##  For Dataset
+```bash
+[git clone (https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/tree/main)
+](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)
+```
 ---
 ## ⚙️ How to Run
 
