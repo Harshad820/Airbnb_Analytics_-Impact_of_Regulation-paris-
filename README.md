@@ -60,10 +60,11 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
 ---
 ## 📂 Project Structure
 ```
-├── airbnb-impact-of-regulation.ipynb   # Main analysis notebook
-├── data/                               # (Optional) Place datasets here
-├── requirements.txt                    # Python dependencies
+
 └── README.md                           # Documentation
+├── airbnb-impact-of-regulation.ipynb   # Main analysis notebook
+└── Dataset                             # Datasets here
+
 ```
 
 ---
