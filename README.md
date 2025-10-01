@@ -66,10 +66,9 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
 
 ```
 
-##  For Dataset
+## 📂 For Dataset
 ```bash
-[git clone (https://github.com/Harshad820/Airbnb_Analytics_-Impact_of_Regulation-paris-/tree/main)
-](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)
+(https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)
 ```
 ---
 ## ⚙️ How to Run
