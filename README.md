@@ -27,7 +27,6 @@ Findings from this project can help **policymakers, hosts, and researchers** bet
 ## 🎯 Objectives
 - Assess how short-term rental regulations affect Airbnb market dynamics.  
 - Compare pre- and post-regulation trends in **listings, pricing, and revenues**.  
-- Distinguish between effects on **professional vs. casual hosts**.  
 - Provide **policy-relevant insights** for cities regulating short-term rentals.  
 
 ---
